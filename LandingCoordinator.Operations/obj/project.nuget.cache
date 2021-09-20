@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdCunv18CHBsbJBaZmF4EEpi6M9ORxccLZxeeA7sJ1N27vS5dRX/5J2yKNnB//BDf3YY3MrevFItn7QyFdm6qw==",
+  "success": true,
+  "projectFilePath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Operations/LandingCoordinator.Operations.csproj",
+  "expectedPackageFiles": [
+    "/Users/mganitombalak/.nuget/packages/mathnet.numerics/4.15.0/mathnet.numerics.4.15.0.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/microsoft.orleans.codegenerator.msbuild/3.5.0/microsoft.orleans.codegenerator.msbuild.3.5.0.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/microsoft.orleans.core.abstractions/3.5.0/microsoft.orleans.core.abstractions.3.5.0.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/mganitombalak/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

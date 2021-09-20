@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mganitombalak/github/cubic/LandingCoordinator.Operations/LandingCoordinator.Operations.csproj": {}
+  },
+  "projects": {
+    "/Users/mganitombalak/github/cubic/LandingCoordinator.Abstractions/LandingCoordinator.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mganitombalak/github/cubic/LandingCoordinator.Abstractions/LandingCoordinator.Abstractions.csproj",
+        "projectName": "LandingCoordinator.Abstractions",
+        "projectPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Abstractions/LandingCoordinator.Abstractions.csproj",
+        "packagesPath": "/Users/mganitombalak/.nuget/packages/",
+        "outputPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mganitombalak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Orleans.CodeGenerator.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.Orleans.Core.Abstractions": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mganitombalak/github/cubic/LandingCoordinator.Engine/LandingCoordinator.Engine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mganitombalak/github/cubic/LandingCoordinator.Engine/LandingCoordinator.Engine.csproj",
+        "projectName": "LandingCoordinator.Engine",
+        "projectPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Engine/LandingCoordinator.Engine.csproj",
+        "packagesPath": "/Users/mganitombalak/.nuget/packages/",
+        "outputPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Engine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mganitombalak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mganitombalak/github/cubic/LandingCoordinator.Abstractions/LandingCoordinator.Abstractions.csproj": {
+                "projectPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Abstractions/LandingCoordinator.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mganitombalak/github/cubic/LandingCoordinator.Operations/LandingCoordinator.Operations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mganitombalak/github/cubic/LandingCoordinator.Operations/LandingCoordinator.Operations.csproj",
+        "projectName": "LandingCoordinator.Operations",
+        "projectPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Operations/LandingCoordinator.Operations.csproj",
+        "packagesPath": "/Users/mganitombalak/.nuget/packages/",
+        "outputPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Operations/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mganitombalak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/mganitombalak/github/cubic/LandingCoordinator.Abstractions/LandingCoordinator.Abstractions.csproj": {
+                "projectPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Abstractions/LandingCoordinator.Abstractions.csproj"
+              },
+              "/Users/mganitombalak/github/cubic/LandingCoordinator.Engine/LandingCoordinator.Engine.csproj": {
+                "projectPath": "/Users/mganitombalak/github/cubic/LandingCoordinator.Engine/LandingCoordinator.Engine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Orleans.CodeGenerator.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Microsoft.Orleans.Core.Abstractions": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

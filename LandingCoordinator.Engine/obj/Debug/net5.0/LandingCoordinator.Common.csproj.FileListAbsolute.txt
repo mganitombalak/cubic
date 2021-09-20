@@ -1,0 +1,12 @@
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/bin/Debug/net5.0/LandingCoordinator.Common.deps.json
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/bin/Debug/net5.0/LandingCoordinator.Common.dll
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/bin/Debug/net5.0/ref/LandingCoordinator.Common.dll
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/bin/Debug/net5.0/LandingCoordinator.Common.pdb
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/obj/Debug/net5.0/LandingCoordinator.Common.csproj.AssemblyReference.cache
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/obj/Debug/net5.0/LandingCoordinator.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/obj/Debug/net5.0/LandingCoordinator.Common.AssemblyInfoInputs.cache
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/obj/Debug/net5.0/LandingCoordinator.Common.AssemblyInfo.cs
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/obj/Debug/net5.0/LandingCoordinator.Common.csproj.CoreCompileInputs.cache
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/obj/Debug/net5.0/LandingCoordinator.Common.dll
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/obj/Debug/net5.0/ref/LandingCoordinator.Common.dll
+/Users/mganitombalak/RiderProjects/CubicTelecom/LandingCoordinator.Common/obj/Debug/net5.0/LandingCoordinator.Common.pdb
